@@ -1,0 +1,35 @@
+body {
+    color: black;
+    height: 1200px;
+    background-image: url(./imagens/Digital-House-1.png);
+    background-repeat: repeat-y;
+    background: no-repeat center/100% url("./imagens/imag.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: repeat;
+    background-attachment: fixed;
+  
+}
+
+
+h1{
+color: #ec183f;
+
+}
+
+
+ 
+h2 {
+    color:#ec183f;
+    
+}
+
+h3 {
+    color:#ec183f;
+}
+p {
+    font-size: 25px;
+}
+nav{
+    font-size: 20px;
+}
